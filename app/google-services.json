@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942425638824",
+    "project_id": "desarrollomoviles-9a7d9",
+    "storage_bucket": "desarrollomoviles-9a7d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942425638824:android:538c3568687d406508bf9d",
+        "android_client_info": {
+          "package_name": "com.penia.appt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQYek5JoH2xBoy1JLpxzYipXVnpil4Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
